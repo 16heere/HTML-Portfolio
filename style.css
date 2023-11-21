@@ -1,0 +1,41 @@
+hr{
+    margin: 0;
+}
+
+#title{
+    background-color: #efefef;
+}
+
+#name{
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 2;
+    text-align: center;
+    font-family: 'Marhey', sans-serif;
+}
+
+.about-me{
+    background-color: #efefef;
+    font-family: 'Marhey', sans-serif;
+}
+
+.hoop{
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.skills{
+    background-color: #efefef;
+    font-family: 'Marhey', sans-serif;
+}
+
+.skill-img{
+    border-radius: 50%;
+}
+
+#footer{
+    background-color: #efefef;
+    font-family: 'Marhey', sans-serif;
+}
+
